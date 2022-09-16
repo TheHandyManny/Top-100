@@ -1,0 +1,221 @@
+Year,Party,Presidential candidate,Vice presidential candidate,Popular vote,%,Electoral votes,Notes
+1788,Independent,George Washington,None[a],43782,100.0,69 / 138,
+1788,Federalist,John Adams[b],None[a],,,34 / 138,
+1788,Federalist,John Jay,None[a],,,9 / 138,
+1788,Federalist,Robert H. Harrison,None[a],,,6 / 138,
+1788,Federalist,John Rutledge,None[a],,,6 / 138,
+1788,Federalist,John Hancock,None[a],,,4 / 138,
+1788,Anti-Administration,George Clinton,None[a],,,3 / 138,
+1788,Federalist,Samuel Huntington,None[a],,,2 / 138,
+1788,Federalist,John Milton,None[a],,,2 / 138,
+1788,Federalist,James Armstrong,None[a],,,1 / 138,
+1788,Federalist,Benjamin Lincoln,None[a],,,1 / 138,
+1788,Anti-Administration,Edward Telfair,None[a],,,1 / 138,
+1792,Independent,George Washington,None[a],28579,100.0,132 / 264,
+1792,Federalist,John Adams[b],None[a],,,77 / 264,
+1792,Democratic-Republican,George Clinton,None[a],,,50 / 264,
+1792,Democratic-Republican,Thomas Jefferson,None[a],,,4 / 264,
+1792,Democratic-Republican,Aaron Burr,None[a],,,1 / 264,
+1796,Federalist,John Adams,None[a],35726,53.4,71 / 276,
+1796,Democratic-Republican,Thomas Jefferson[c],None[a],31115,46.6,68 / 276,
+1796,Federalist,Thomas Pinckney,None[a],,,59 / 276,
+1796,Democratic-Republican,Aaron Burr,None[a],,,30 / 276,
+1796,Democratic-Republican,Samuel Adams,None[a],,,15 / 276,
+1796,Federalist,Oliver Ellsworth,None[a],,,11 / 276,
+1796,Democratic-Republican,George Clinton,None[a],,,7 / 276,
+1796,Federalist,John Jay,None[a],,,5 / 276,
+1796,Federalist,James Iredell,None[a],,,3 / 276,
+1796,Independent,George Washington,None[a],,,2 / 276,
+1796,Democratic-Republican,John Henry,None[a],,,2 / 276,
+1796,Federalist,Samuel Johnston,None[a],,,2 / 276,
+1796,Federalist,Charles Cotesworth Pinckney,None[a],,,1 / 276,
+1800,Democratic-Republican,Thomas Jefferson,Aaron Burr[d],41330,61.4%,73 / 276,
+1800,Federalist,John Adams,Charles Cotesworth Pinckney[d],25952,38.6%,64 / 276,
+1800,Federalist,John Adams,John Jay[d],25952,38.6%,1 / 276,
+1804,Democratic-Republican,Thomas Jefferson,George Clinton,104110,72.8%,162 / 176,
+1804,Federalist,Charles Cotesworth Pinckney,Rufus King,38919,27.2%,14 / 176,
+1808,Democratic-Republican,James Madison,George Clinton,124732,64.7%,113 / 176,[e]
+1808,Democratic-Republican,James Madison,John Langdon,124732,64.7%,9 / 176,[e]
+1808,Federalist,Charles Cotesworth Pinckney,Rufus King,62431,32.4%,47 / 176,
+1808,Democratic-Republican,George Clinton,James Madison,,,3 / 176,[f]
+1808,Democratic-Republican,George Clinton,James Monroe,,,3 / 176,[f]
+1812,Democratic-Republican,James Madison,Elbridge Gerry,140431,50.4%,128 / 217,
+1812,Democratic-Republican/Federalist[g],DeWitt Clinton,Jared Ingersoll,132781,47.6%,86 / 217,[h]
+1812,Democratic-Republican/Federalist[g],DeWitt Clinton,Elbridge Gerry,132781,47.6%,3 / 217,[h]
+1816,Democratic-Republican,James Monroe,Daniel D. Tompkins,76592,68.2%,183 / 217,
+1816,Federalist,Rufus King,John Eager Howard,34740,30.9%,22 / 217,[i]
+1816,Federalist,Rufus King,James Ross,34740,30.9%,5 / 217,[i]
+1816,Federalist,Rufus King,John Marshall,34740,30.9%,4 / 217,[i]
+1816,Federalist,Rufus King,Robert Goodloe Harper,34740,30.9%,3 / 217,[i]
+1820,Democratic-Republican,James Monroe,Daniel D. Tompkins,87343,80.6%,218 / 232,[j]
+1820,Democratic-Republican,James Monroe,Richard Stockton (F),87343,80.6%,8 / 232,[j]
+1820,Democratic-Republican,James Monroe,Daniel Rodney (F),87343,80.6%,4 / 232,[j]
+1820,Democratic-Republican,James Monroe,Robert Goodloe Harper (F),87343,80.6%,1 / 232,[j]
+1820,Democratic-Republican,John Quincy Adams,Richard Rush (F),,,1 / 232,[k]
+1824,Democratic-Republican(Adams faction),John Quincy Adams[l],John C. Calhoun,113122,30.9%,74 / 261,[m]
+1824,Democratic-Republican(Adams faction),John Quincy Adams[l],Andrew Jackson,113122,30.9%,9 / 261,[m]
+1824,Democratic-Republican(Adams faction),John Quincy Adams[l],,113122,30.9%,1 / 261,[m]
+1824,Democratic-Republican(Jackson faction),Andrew Jackson,John C. Calhoun,151271,41.4%,99 / 261,
+1824,Democratic-Republican(Crawford faction),William H. Crawford,Nathaniel Macon,40856,11.2%,24 / 261,[n]
+1824,Democratic-Republican(Crawford faction),William H. Crawford,Martin Van Buren,40856,11.2%,9 / 261,[n]
+1824,Democratic-Republican(Crawford faction),William H. Crawford,John C. Calhoun,40856,11.2%,2 / 261,[n]
+1824,Democratic-Republican(Crawford faction),William H. Crawford,Henry Clay,40856,11.2%,2 / 261,[n]
+1824,Democratic-Republican(Crawford faction),William H. Crawford,Nathan Sanford,40856,11.2%,2 / 261,[n]
+1824,Democratic-Republican(Crawford faction),William H. Crawford,Andrew Jackson,40856,11.2%,1 / 261,[n]
+1824,Democratic-Republican(Clay faction),Henry Clay,Nathan Sanford,47531,13.0%,28 / 261,[o]
+1824,Democratic-Republican(Clay faction),Henry Clay,John C. Calhoun,47531,13.0%,7 / 261,[o]
+1824,Democratic-Republican(Clay faction),Henry Clay,Andrew Jackson,47531,13.0%,3 / 261,[o]
+1828,Democratic,Andrew Jackson,John C. Calhoun,642553,56.0%,171 / 261,[p]
+1828,Democratic,Andrew Jackson,William Smith,642553,56.0%,7 / 261,[p]
+1828,National Republican,John Quincy Adams,Richard Rush,500897,43.6%,83 / 261,
+1832,Democratic,Andrew Jackson,Martin Van Buren,701780,54.2%,189 / 286,[q]
+1832,Democratic,Andrew Jackson,William Wilkins,701780,54.2%,30 / 286,[q]
+1832,National Republican,Henry Clay,John Sergeant,484205,37.4%,49 / 286,
+1832,Nullifier,John Floyd,Henry Lee,,,11 / 286,[r]
+1832,Anti-Masonic,William Wirt,Amos Ellmaker,100715,7.8%,7 / 286,
+1836,Democratic,Martin Van Buren,Richard Mentor Johnson,763291,50.8%,147 / 294,[s]
+1836,Democratic,Martin Van Buren,William Smith,763291,50.8%,23 / 294,[s]
+1836,Whig,William Henry Harrison,Francis Granger,549907,36.6%,63 / 294,[t]
+1836,Whig,William Henry Harrison,John Tyler,549907,36.6%,10 / 294,[t]
+1836,Whig,Hugh L. White,John Tyler,146107,9.7%,26 / 294,
+1836,Whig,Daniel Webster,Francis Granger,41201,2.7%,14 / 294,
+1836,Whig,Willie Person Mangum,John Tyler,,,11 / 294,[r]
+1840,Whig,William Henry Harrison,John Tyler,1275390,52.9%,234 / 294,
+1840,Democratic,Martin Van Buren,Richard Mentor Johnson,1128854,46.8%,48 / 294,[u]
+1840,Democratic,Martin Van Buren,Littleton W. Tazewell,1128854,46.8%,11 / 294,[u]
+1840,Democratic,Martin Van Buren,James K. Polk,1128854,46.8%,1 / 294,[u]
+1844,Democratic,James K. Polk,George M. Dallas,1339494,49.5%,170 / 275,
+1844,Whig,Henry Clay,Theodore Frelinghuysen,1300004,48.1%,105 / 275,
+1848,Whig,Zachary Taylor,Millard Fillmore,1361393,47.3%,163 / 290,
+1848,Democratic,Lewis Cass,William Orlando Butler,1223460,42.5%,127 / 290,
+1848,Free Soil,Martin Van Buren,Charles Francis Adams Sr.,291501,10.1%,0 / 290,
+1852,Democratic,Franklin Pierce,William R. King,1607510,50.8%,254 / 296,
+1852,Whig,Winfield Scott,William Alexander Graham,1386942,43.9%,42 / 296,
+1852,Free Soil,John P. Hale,George Washington Julian,155210,4.9%,0 / 296,
+1856,Democratic,James Buchanan,John C. Breckinridge,1836072,45.3%,174 / 296,
+1856,Republican,John C. Frémont,William L. Dayton,1342345,33.1%,114 / 296,
+1856,American,Millard Fillmore,Andrew Jackson Donelson,873053,21.6%,8 / 296,
+1860,Republican,Abraham Lincoln,Hannibal Hamlin,1865908,39.8%,180 / 303,
+1860,Democratic (Southern),John C. Breckinridge,Joseph Lane,848019,18.1%,72 / 303,
+1860,Constitutional Union,John Bell,Edward Everett,590901,12.6%,39 / 303,
+1860,Democratic (Northern),Stephen A. Douglas,Herschel V. Johnson,1380202,29.5%,12 / 303,
+1864,National Union,Abraham Lincoln (R),Andrew Johnson (D),2218388,55.0%,212 / 233,[v][w]
+1864,Democratic,George B. McClellan,George H. Pendleton,1812807,45.0%,21 / 233,
+1868,Republican,Ulysses S. Grant,Schuyler Colfax,3013650,52.7%,214 / 294,
+1868,Democratic,Horatio Seymour,Francis Preston Blair Jr.,2708744,47.3%,80 / 294,
+1872,Republican,Ulysses S. Grant,Henry Wilson,3598235,55.6%,286 / 352,
+1872,Democratic,Thomas A. Hendricks,Benjamin Gratz Brown (LR),"2,834,761[x]",43.8%,41 or 42 / 352,[y][z]
+1872,Democratic,Thomas A. Hendricks,William S. Groesbeck,"2,834,761[x]",43.8%,0 or 1 / 352,[y][z]
+1872,Democratic,Thomas A. Hendricks,George Washington Julian (LR),"2,834,761[x]",43.8%,0 or 1 / 352,[y][z]
+1872,Democratic,Thomas A. Hendricks,John M. Palmer (LR),"2,834,761[x]",43.8%,0 or 1 / 352,[y][z]
+1872,Liberal Republican,Benjamin Gratz Brown,Alfred H. Colquitt (D),"2,834,761[x]",43.8%,5 / 352,[y]
+1872,Liberal Republican,Benjamin Gratz Brown,George Washington Julian,"2,834,761[x]",43.8%,4 or 5 / 352,[y]
+1872,Liberal Republican,Benjamin Gratz Brown,Thomas E. Bramlette (D),"2,834,761[x]",43.8%,3 / 352,[y]
+1872,Liberal Republican,Benjamin Gratz Brown,John M. Palmer,"2,834,761[x]",43.8%,2 or 3 / 352,[y]
+1872,Liberal Republican,Benjamin Gratz Brown,Nathaniel P. Banks,"2,834,761[x]",43.8%,1 / 352,[y]
+1872,Liberal Republican,Benjamin Gratz Brown,Willis Benson Machen (D),"2,834,761[x]",43.8%,1 / 352,[y]
+1872,Liberal Republican,Benjamin Gratz Brown,William S. Groesbeck (D),"2,834,761[x]",43.8%,0 or 1 / 352,[y]
+1872,Liberal Republican,Horace Greeley,Benjamin Gratz Brown,"2,834,761[x]",43.8%,3 / 352,[aa]
+1872,Democratic,Charles J. Jenkins,Benjamin Gratz Brown,"2,834,761[x]",43.8%,2 / 352,
+1872,Liberal Republican,David Davis,Benjamin Gratz Brown,"2,834,761[x]",43.8%,0 or 1 / 352,[y][ab]
+1872,Liberal Republican,David Davis,William S. Groesbeck (D),"2,834,761[x]",43.8%,0 or 1 / 352,[y][ab]
+1872,Liberal Republican,David Davis,George Washington Julian,"2,834,761[x]",43.8%,0 or 1 / 352,[y][ab]
+1872,Liberal Republican,David Davis,John M. Palmer,"2,834,761[x]",43.8%,0 or 1 / 352,[y][ab]
+1876,Republican,Rutherford B. Hayes,William A. Wheeler,4034142,47.9%,185 / 369,
+1876,Democratic,Samuel J. Tilden,Thomas A. Hendricks,4286808,50.9%,184 / 369,
+1880,Republican,James A. Garfield,Chester A. Arthur,4446158,48.3%,214 / 369,
+1880,Democratic,Winfield Scott Hancock,William Hayden English,4444260,48.3%,155 / 369,
+1884,Democratic,Grover Cleveland,Thomas A. Hendricks,4914482,48.9%,219 / 401,
+1884,Republican,James G. Blaine,John A. Logan,4856903,48.3%,182 / 401,
+1888,Republican,Benjamin Harrison,Levi P. Morton,5443892,47.8%,233 / 401,
+1888,Democratic,Grover Cleveland,Allen G. Thurman,5534488,48.6%,168 / 401,
+1892,Democratic,Grover Cleveland,Adlai Stevenson I,5553898,46.0%,277 / 444,
+1892,Republican,Benjamin Harrison,Whitelaw Reid,5190819,43.0%,145 / 444,
+1892,Populist,James B. Weaver,James G. Field,1026595,8.5%,22 / 444,
+1896,Republican,William McKinley,Garret Hobart,7111607,51.0%,271 / 447,
+1896,Democratic/Populist,William Jennings Bryan,Arthur Sewall (D),6509052,46.7%,149 / 447,[ac]
+1896,Democratic/Populist,William Jennings Bryan,Thomas E. Watson (Pop.),6509052,46.7%,27 / 447,[ac]
+1900,Republican,William McKinley,Theodore Roosevelt,7228864,51.6%,292 / 447,
+1900,Democratic,William Jennings Bryan,Adlai Stevenson I,6370932,45.5%,155 / 447,
+1904,Republican,Theodore Roosevelt,Charles W. Fairbanks,7630457,56.4%,336 / 476,
+1904,Democratic,Alton B. Parker,Henry G. Davis,5083880,37.6%,140 / 476,
+1908,Republican,William Howard Taft,James S. Sherman,7678335,51.6%,321 / 483,
+1908,Democratic,William Jennings Bryan,John W. Kern,6408979,43.0%,162 / 483,
+1912,Democratic,Woodrow Wilson,Thomas R. Marshall,6296284,41.8%,435 / 531,
+1912,Progressive,Theodore Roosevelt,Hiram Johnson,4122721,27.4%,88 / 531,
+1912,Republican,William Howard Taft,Nicholas Murray Butler[ad],3486242,23.2%,8 / 531,
+1912,Socialist,Eugene V. Debs,Emil Seidel,901551,6.0%,0 / 531,
+1916,Democratic,Woodrow Wilson,Thomas R. Marshall,9126868,49.2%,277 / 531,
+1916,Republican,Charles Evans Hughes,Charles W. Fairbanks,8548728,46.1%,254 / 531,
+1920,Republican,Warren G. Harding,Calvin Coolidge,16144093,60.3%,404 / 531,
+1920,Democratic,James M. Cox,Franklin D. Roosevelt,9139661,34.2%,127 / 531,
+1924,Republican,Calvin Coolidge,Charles G. Dawes,15723789,54.0%,382 / 531,
+1924,Democratic,John W. Davis,Charles W. Bryan,8386242,28.8%,136 / 531,
+1924,Progressive,Robert M. La Follette,Burton K. Wheeler,4831706,16.6%,13 / 531,
+1928,Republican,Herbert Hoover,Charles Curtis,21427123,58.2%,444 / 531,
+1928,Democratic,Al Smith,Joseph Taylor Robinson,15015464,40.8%,87 / 531,
+1932,Democratic,Franklin D. Roosevelt,John Nance Garner,22821277,57.4%,472 / 531,
+1932,Republican,Herbert Hoover,Charles Curtis,15761254,39.7%,59 / 531,
+1936,Democratic,Franklin D. Roosevelt,John Nance Garner,27752648,60.8%,523 / 531,
+1936,Republican,Alf Landon,Frank Knox,16681862,36.5%,8 / 531,
+1940,Democratic,Franklin D. Roosevelt,Henry A. Wallace,27313945,54.7%,449 / 531,
+1940,Republican,Wendell Willkie,Charles L. McNary,22347744,44.8%,82 / 531,
+1944,Democratic,Franklin D. Roosevelt,Harry S. Truman,25612916,53.4%,432 / 531,
+1944,Republican,Thomas E. Dewey,John W. Bricker,22017929,45.9%,99 / 531,
+1948,Democratic,Harry S. Truman,Alben W. Barkley,24179347,49.6%,303 / 531,
+1948,Republican,Thomas E. Dewey,Earl Warren,21991292,45.1%,189 / 531,
+1948,Dixiecrat,Strom Thurmond,Fielding L. Wright,1175930,2.4%,39 / 531,
+1952,Republican,Dwight D. Eisenhower,Richard Nixon,34075529,55.2%,442 / 531,
+1952,Democratic,Adlai Stevenson II,John Sparkman,27375090,44.3%,89 / 531,
+1956,Republican,Dwight D. Eisenhower,Richard Nixon,35579180,57.4%,457 / 531,
+1956,Democratic,Adlai Stevenson II,Estes Kefauver,26028028,42.0%,73 / 531,
+1956,Democratic,Walter Burgwyn Jones,Herman Talmadge,,,1 / 531,[ae]
+1960,Democratic,John F. Kennedy,Lyndon B. Johnson,34220984,49.7%,303 / 537,
+1960,Republican,Richard Nixon,Henry Cabot Lodge Jr.,34108157,49.6%,219 / 537,
+1960,Southern Democratic,Harry F. Byrd,Strom Thurmond,610409,0.4%,14 / 537,[af]
+1960,Southern Democratic,Harry F. Byrd,Barry Goldwater (R),610409,0.4%,1 / 537,[af]
+1964,Democratic,Lyndon B. Johnson,Hubert Humphrey,43127041,61.0%,486 / 538,
+1964,Republican,Barry Goldwater,William E. Miller,27175754,38.5%,52 / 538,
+1968,Republican,Richard Nixon,Spiro Agnew,31783783,43.4%,301 / 538,
+1968,Democratic,Hubert Humphrey,Edmund Muskie,31271839,42.7%,191 / 538,
+1968,American Independent,George Wallace,Curtis LeMay,9901118,13.5%,46 / 538,
+1972,Republican,Richard Nixon,Spiro Agnew,47168710,60.7%,520 / 538,
+1972,Democratic,George McGovern,Sargent Shriver,29173222,37.5%,17 / 538,
+1972,Libertarian,John Hospers,Tonie Nathan,3674,<0.01%,1 / 538,[ag]
+1976,Democratic,Jimmy Carter,Walter Mondale,40831881,50.1%,297 / 538,
+1976,Republican,Gerald Ford,Bob Dole,39148634,48.0%,240 / 538,
+1976,Republican,Ronald Reagan,Bob Dole,,,1 / 538,[ah]
+1980,Republican,Ronald Reagan,George H. W. Bush,43903230,50.7%,489 / 538,
+1980,Democratic,Jimmy Carter,Walter Mondale,35480115,41.0%,49 / 538,
+1980,Independent,John B. Anderson,Patrick Lucey,5719850,6.6%,0 / 538,
+1984,Republican,Ronald Reagan,George H. W. Bush,54455472,58.8%,525 / 538,
+1984,Democratic,Walter Mondale,Geraldine Ferraro,37577352,40.6%,13 / 538,
+1988,Republican,George H. W. Bush,Dan Quayle,48886597,53.4%,426 / 538,
+1988,Democratic,Michael Dukakis,Lloyd Bentsen,41809476,45.6%,111 / 538,
+1988,Democratic,Lloyd Bentsen,Michael Dukakis,,,1 / 538,[ai]
+1992,Democratic,Bill Clinton,Al Gore,44909806,43.0%,370 / 538,
+1992,Republican,George H. W. Bush,Dan Quayle,39104550,37.4%,168 / 538,
+1992,Independent,Ross Perot,James Stockdale,19743821,18.9%,0 / 538,
+1996,Democratic,Bill Clinton,Al Gore,47401185,49.2%,379 / 538,
+1996,Republican,Bob Dole,Jack Kemp,39197469,40.7%,159 / 538,
+1996,Reform,Ross Perot,Pat Choate,8085294,8.4%,0 / 538,
+2000,Republican,George W. Bush,Dick Cheney,50456002,47.9%,271 / 538,
+2000,Democratic,Al Gore,Joe Lieberman,50999897,48.4%,266 / 538,[aj][54]
+2004,Republican,George W. Bush,Dick Cheney,62040610,50.7%,286 / 538,
+2004,Democratic,John Kerry,John Edwards,59028444,48.3%,251 / 538,
+2004,Democratic,John Edwards,John Edwards,5,<0.01%,1 / 538,[ak]
+2008,Democratic,Barack Obama,Joe Biden,69498516,52.9%,365 / 538,
+2008,Republican,John McCain,Sarah Palin,59948323,45.7%,173 / 538,
+2012,Democratic,Barack Obama,Joe Biden,65915795,51.1%,332 / 538,
+2012,Republican,Mitt Romney,Paul Ryan,60933504,47.2%,206 / 538,
+2016,Republican,Donald Trump,Mike Pence,62984828,46.1%,304 / 538,
+2016,Republican,Ron Paul (L)[55],Mike Pence,124,<0.01%,1 / 538,[al]
+2016,Democratic,Hillary Clinton,Tim Kaine,65853514,48.2%,227 / 538,
+2016,Republican(cast by Democratic electors),Colin Powell,Susan Collins,25,<0.01%,1 / 538,[am]
+2016,Republican(cast by Democratic electors),Colin Powell,Maria Cantwell (D),25,<0.01%,1 / 538,[am]
+2016,Republican(cast by Democratic electors),Colin Powell,Elizabeth Warren (D),25,<0.01%,1 / 538,[am]
+2016,Republican,John Kasich,Carly Fiorina[55],2684,<0.01%,1 / 538,[al]
+2016,Democratic,Bernie Sanders,Elizabeth Warren,108776,0.08%,1 / 538,[an]
+2016,Democratic,Faith Spotted Eagle,Winona LaDuke (G),,,1 / 538,[ao]
+2020,Democratic,Joe Biden,Kamala Harris,81268924,51.3%,306 / 538,
+2020,Republican,Donald Trump,Mike Pence,74216154,46.9%,232 / 538,
